@@ -1,0 +1,16 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "bittermichaelxyz2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
